@@ -1,0 +1,8 @@
+server:
+  port: 8083
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5430/loan-manager
+    username: weinber
+    password: weinber
+    driver-class-name: org.postgresql.Driver
